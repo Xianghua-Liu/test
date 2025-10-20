@@ -1,0 +1,16 @@
+# MATLAB / Octave artifacts
+*.asv
+*.m~
+*~
+*.mat
+*.fig
+*.mex* 
+
+# Editor/OS files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs
+*.log
